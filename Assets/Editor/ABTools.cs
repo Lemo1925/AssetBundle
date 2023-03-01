@@ -16,7 +16,7 @@ namespace Editor
         //FtpConfig
         private string ip = "ftp://127.0.0.1";
         private string userName = "AssetBundle";
-        private string password = "6EBDPDKG3cmz3tkG";
+        private string password = "Password";
         
         private int nowSelectIndex;
         private string[] targetStr = { "PC", "IOS", "Android" };
